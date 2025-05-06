@@ -1,4 +1,5 @@
-## Hi there 👋
+## My name is Fábio Gabriel Machado Bonin, I'm from Brazil, and I’m an aspiring programmer. I’m really into technology, and I love games and animes.
+
 
 <!--
 **FabioBonin/FabioBonin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
