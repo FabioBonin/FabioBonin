@@ -1,4 +1,12 @@
 ## My name is Fábio Gabriel Machado Bonin, I'm from Brazil, and I’m an aspiring programmer. I’m really into technology, and I love games and animes.
+Would you like to find me?
+
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=)]()
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https)]()
+
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https:)]()
 
 
 <!--
